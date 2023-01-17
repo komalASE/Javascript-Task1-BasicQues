@@ -7,7 +7,7 @@ function reverseArray() {
   }
   console.log(newArray);
 }
-var arr = [1, 2, 3, 4, 5];
+var arr = [1, 2, 3, 7, 5];
 reverseArray(arr);
 
 
